@@ -26,15 +26,15 @@
 
 sudo apt update && sudo apt install nmap -y
 
+---
+
 # Clonar e instalar whichSystem.py (ejemplo)
 
 aqui te comparto tambien la herramienta de S4vitar whichSystem.py
 
 sudo cp whichSystem.py /usr/local/bin
 
-
-
-Asegúrate de tener extractPorts disponible en tu entorno (generalmente definido en .bashrc o .zshrc según las configuraciones de S4vitar).
+---
 
 🛠️ Instalación de AutoNmap
 
