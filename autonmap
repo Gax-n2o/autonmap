@@ -42,8 +42,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
  if [ $# -ne 1 ]; then
-    echo -e "${Y}Usalo asi: ./nmapatack <IP>${NC}"
-    echo -e "${Y}Si creas el alias en tu zshrc ejecutalo tambien ${B}sudo Alias <IP>${NC}"
+    echo -e "${Y}Usalo asi en modo root: autonmap <IP>${NC}"
     exit 1
     fi
     
