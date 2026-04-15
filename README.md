@@ -27,9 +27,10 @@
 sudo apt update && sudo apt install nmap -y
 
 # Clonar e instalar whichSystem.py (ejemplo)
-cd /opt
-sudo git clone https://github.com/AfshinAlavi/whichSystem.git
-sudo cp whichSystem/whichSystem.py /usr/local/bin
+
+aqui te comparto tambien la herramienta de S4vitar whichSystem.py
+
+sudo cp whichSystem.py /usr/local/bin
 
 
 
