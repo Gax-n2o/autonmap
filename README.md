@@ -22,7 +22,7 @@
 ### Instalación de dependencias
 
 
-# Instalar nmap y xclip
+# Instalar nmap
 
 sudo apt update && sudo apt install nmap -y
 
