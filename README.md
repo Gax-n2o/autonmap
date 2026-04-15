@@ -18,8 +18,19 @@
 - Sistema operativo Linux (probado en Kali Linux / Parrot OS).
 - `nmap` instalado.
 - `whichSystem.py` (herramienta de S4vitar).
+
+# Tienes dos opciones Intalacion Rapida o la manual tu escoges
+
+## 🛠️ Instalación rápida
+
+```bash
+git clone https://github.com/Gax-n2o/autonmap.git
+cd autonmap
+chmod +x installer.sh
+sudo ./installer.sh
+```
   
-### Instalación de dependencias
+### Instalación de dependencias MODO MANUAL
 
 
 # Instalar nmap
@@ -86,4 +97,4 @@ Y='\033[1;33m'   # Amarillo
 · N20 - Desarrollo del script.
 · S4vitar - Inspiración y herramientas base (whichSystem.py).
 
-# N2O
+#                             N2O
