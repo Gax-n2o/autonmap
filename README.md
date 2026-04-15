@@ -1,7 +1,9 @@
-# autonmap
+# Modo de uso:
 
-## Se tiene que colocar en el PATH de ~/.local/bin, si no lo tienes creado crea el directorio con mkdir en la ruta indicada.
+Descargue y Dale permisos de ejecución
 
-## Ademas que en la zsh tienes que agregar esto al final 
+Se tiene que colocar en el PATH de ~/.local/bin, si no lo tienes creado crea el directorio con mkdir en la ruta indicada.
 
-## export PATH="$HOME/.local/bin:$PATH"
+Ademas que en la zsh tienes que agregar esto al final 
+
+export PATH="$HOME/.local/bin:$PATH"
